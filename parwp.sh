@@ -1,4 +1,3 @@
-#Copyright (c) 2015-2017, Hristo Georgiev Dachev - All rights reserved.
 __revision='3.7.0 (22-APR-17)'
 #Make me always be executed by BASH.
 if [ "$(printf "%s"$BASH_VERSION)" = "" ]; then bash "$0"; fi;
